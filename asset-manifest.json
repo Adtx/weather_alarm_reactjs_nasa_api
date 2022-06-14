@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/weather_alarm_reactjs_nasa_api/static/css/main.d0509d86.css",
+    "main.js": "/weather_alarm_reactjs_nasa_api/static/js/main.cb1a3c9b.js",
+    "index.html": "/weather_alarm_reactjs_nasa_api/index.html",
+    "main.d0509d86.css.map": "/weather_alarm_reactjs_nasa_api/static/css/main.d0509d86.css.map",
+    "main.cb1a3c9b.js.map": "/weather_alarm_reactjs_nasa_api/static/js/main.cb1a3c9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0509d86.css",
+    "static/js/main.cb1a3c9b.js"
+  ]
+}
