@@ -1,6 +1,6 @@
 # ReactJS Weather Alarm App
 
-<img src="screenshots/WeatherAlarm2.png" width="500">
+<img src="screenshots/WeatherAlarm3.png" width="500">
 
 This is a severe weather event tracker that tracks natural events like wildfires, severe storms, volcanoes and earthquakes.<br/>
 All the events are placed on a world map so the user can see everywhere where an event is taking place.<br/>
